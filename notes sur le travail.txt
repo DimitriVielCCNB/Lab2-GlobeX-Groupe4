@@ -1,6 +1,28 @@
 NOTE TRÈS IMPORTANTS `LIRE CONSERNANT LE TRAVAIL
 
-le dossier ProjetGlobex à été entièrrement fait par moi (Mathis Cayouette)
+le dossier ProjetGlobex à été entièrrement fait par moi (Mathis Cayouette).
 
-il contient les pages HTML et CSS et les images utilisés
+il contient les pages HTML et CSS et les images utilisés.
+
+la page est parfaitement fonctionnel bien quelle a été fait vraiment à la dernière minute.
+
+due a un manque de communication aux niveaux de la répartitions des tâches et de l'absence de certains membres.
+
+je n'ai en aucun cas resentit que mes partenaires de travail ont participé au travail
+
+il n'ont tout simplement pas participé aux réunion de groupe et n'ont pas partagés leurs travail sur GitHuB
+
+cela est inquiètant car je comptait sur la personne qui travaillait sur la page main pour pouvoir ajouter mon travail au sien
+
+j'ai du crée une autre page main et changé tout mon code par conséquences
+
+cela dit, le travail était très intérressant car j'ai compris comment moi je préferait codé une page web
+
+et j'ai eu l'occasion de travailler sur une main page car, lors du travail précédant je n'ai pas travaillé du tout sur la page web
+
+Merci de votre compréhension:)
+
+Mathis Cayouette, 
+
+
 
