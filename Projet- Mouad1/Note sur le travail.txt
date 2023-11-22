@@ -1,1 +1,3 @@
-J'ai fait le site comme demandé - Mouad Berchache.
+Le travail a été faites par : les deux étudiants Berchache Mouad et Mejri Mehrez
+Mejri Mehrez a fait les pages HTML suivantes : Biencommerciaux, Bioradioactif,Envahirlemonde et extérieurs, acceuil; Acceuil main CSS
+Berchache Mouad a réaliser : Acceuil, contacte page, mailing list,sport, maison; Acceuil main CSS
